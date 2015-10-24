@@ -1,0 +1,7 @@
+
+
+
+social network (ish)
+
+- Users can post messages
+- Users can view their timeline
